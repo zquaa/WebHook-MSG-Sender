@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xjghMT4K4exDdwGMsHaveNAHQfCK6rn4cfUTeWyhWFW+uOH1CbjMCjjpxGCfGJVIt3w20eg4CKSUJnWFXkO2yQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zqua\\source\\repos\\Discord Webhook Message Sender\\Discord Webhook Message Sender\\Discord Webhook Message Sender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zqua\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
